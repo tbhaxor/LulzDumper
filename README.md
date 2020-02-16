@@ -18,4 +18,3 @@ for example, lulz.zip
 # Contact
 FaceBook : https://fb.com/gurkirat.py<br>
 Email : tbhaxor@gmail.com <br>
-Instagram : @gurkirat.py
