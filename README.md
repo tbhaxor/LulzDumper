@@ -16,5 +16,5 @@ for example, lulz.zip
 7. Wait until download starts :+1:
 
 # Contact
-FaceBook : https://fb.com/gurkirat.py<br>
+Facebook : https://fb.com/tbhaxor<br>
 Email : tbhaxor@gmail.com <br>
