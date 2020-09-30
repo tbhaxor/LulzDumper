@@ -1,9 +1,9 @@
 # LulzDumper
-A web based php script to zip the `present working directory` of a website
+A web based php script to zip the `present working directory` of a website.
 
 ![image](https://user-images.githubusercontent.com/28386721/39677995-0feae47a-51a2-11e8-8840-86d67560a8dc.png)
 
-# How to use
+# How to use:-
 1. Upload dumper.php using PHP Shell :laughing:
 2. Enter ZIP NAME (reqired)
 ```
@@ -15,6 +15,6 @@ for example, lulz.zip
 6. Press `Dump Now`
 7. Wait until download starts :+1:
 
-# Contact
+# Contact:-
 Facebook : https://fb.com/tbhaxor<br>
 Email : tbhaxor@gmail.com <br>
